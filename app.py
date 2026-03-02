@@ -33,5 +33,9 @@ def main() -> None:
         print(f"Request failed: {e}")
         sys.exit(1)
 
+    print(f"Task ID: {data.get('id')}")
+    print(f"Title: {data.get('title')}")
+    print(f"Completed: {data.get('completed')}")
+
 if __name__ == "__main__":
     main()
