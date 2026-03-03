@@ -32,6 +32,15 @@ The tool is intentionally designed to reflect backend documentation literacy and
 
 ---
 
+## Documentation
+
+- [Usage Guide](docs/usage.md)
+- [API Reference](docs/api-reference.md)
+- [Troubleshooting](docs/troubleshooting.md)
+- [Release Notes](docs/release-notes.md)
+
+---
+
 ## Requirements
 
 - Python 3.x
